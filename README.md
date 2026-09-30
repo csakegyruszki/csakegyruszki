@@ -19,4 +19,4 @@ Not on GitHub:
 
 I work mostly in Python (FastAPI, Pydantic) with PostgreSQL, SQLite, Docker, Qdrant and the Anthropic and OpenAI SDKs.
 
-Open to AI engineering and OSINT roles, remote or with relocation.
+Open to AI engineering and OSINT roles, remote or with relocation. [LinkedIn](https://www.linkedin.com/in/khavanikita)
