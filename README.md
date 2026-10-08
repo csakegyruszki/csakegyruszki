@@ -1,8 +1,9 @@
 # Nikita Khava
 
-I build LLM systems in Python: agents that take on real work, evaluation that shows whether a change actually
-helped, and the guardrails and source tracking that make the output checkable. I also work in open-source
-investigation, which is where the habit of tracing every claim back to its source comes from.
+I build LLM systems and data pipelines in Python: agents that take on real work, evaluation that shows whether a
+change actually helped, and the guardrails and source tracking that make the output checkable. I am also an
+investigative journalist and OSINT researcher, which is where the habit of tracing every claim back to its source
+comes from.
 
 ## Repositories
 
